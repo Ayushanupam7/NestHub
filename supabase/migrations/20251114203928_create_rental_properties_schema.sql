@@ -108,6 +108,7 @@ CREATE INDEX IF NOT EXISTS idx_inquiries_property_id ON inquiries(property_id);
 
 INSERT INTO cities (name, state, slug) VALUES
   ('Patna', 'Bihar', 'patna'),
+  ('Raipur', 'Chhattisgarh', 'raipur'),
   ('Delhi', 'Delhi', 'delhi'),
   ('Mumbai', 'Maharashtra', 'mumbai'),
   ('Bangalore', 'Karnataka', 'bangalore'),

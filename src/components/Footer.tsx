@@ -1,7 +1,7 @@
 import { Building2, Facebook, Instagram, Twitter, Linkedin } from 'lucide-react';
 
 export function Footer() {
-  const cities = ['Patna', 'Delhi', 'Mumbai', 'Bangalore', 'Hyderabad', 'Chennai', 'Kolkata'];
+  const cities = ['Patna', 'Raipur','Delhi', 'Mumbai', 'Bangalore', 'Hyderabad', 'Chennai', 'Kolkata'];
 
   return (
     <footer className="bg-gray-900 text-gray-300">
@@ -50,16 +50,16 @@ export function Footer() {
             <ul className="space-y-2">
               <li>
                 <a href="tel:+919771626100" className="hover:text-blue-500 transition-colors">
-                  +91 9771626100
+                  +919199768778
                 </a>
               </li>
               <li>
-                <a href="mailto:contact@NestHubrents.com" className="hover:text-blue-500 transition-colors">
-                  contact@NestHubrents.com
+                <a href="mailto:adarsh.kumar919976@gmail.com" className="hover:text-blue-500 transition-colors">
+                  adarsh.kumar919976@gmail.com
                 </a>
               </li>
               <li className="text-gray-400">
-                Patna, Bihar, India
+                Raipur, India
               </li>
             </ul>
           </div>

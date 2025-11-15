@@ -13,11 +13,11 @@ export function Header() {
 
           <div className="flex items-center space-x-4">
             <a
-              href="tel:+000000000000"
+              href="tel:+919199768778"
               className="flex items-center space-x-2 text-gray-700 hover:text-blue-600 transition-colors"
             >
               <Phone className="h-5 w-5" />
-              <span className="hidden sm:inline font-medium">+91 9XXXXXXXXX0</span>
+              <span className="hidden sm:inline font-medium">+91-9199768778</span>
             </a>
           </div>
         </div>
